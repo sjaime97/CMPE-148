@@ -60,9 +60,10 @@ This program will prompt a user to enter a file and it will read one line from t
     
 	  `1885 is NOT a leap year`
     
-     `1817 is NOT a leap year`
+     	  `1817 is NOT a leap year`
       
 	  `2027 is NOT a leap year`
+	  
 
 **Test Case 4: leapyears_only.txt**
 - Input file with only leap years listed 
