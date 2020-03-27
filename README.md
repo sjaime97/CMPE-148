@@ -5,7 +5,7 @@ This program will prompt a user to enter a file and it will read one line from t
  - Steps 
 	1. Run both client and server in the terminal 
 	2. Client server will prompt user to enter file name or hit enter key to exit
-	3. When user enters input, the server will read the line containing the years and 	calculate to check if it is a leap year or not 
+	3. When user enters input, the server will read the line containing the years and calculate to check if it is a leap year or not 
 	4. The result will be sent back to the client and then printed onto the screen 
 	5. Client can continue entering txt files or exit 
 
